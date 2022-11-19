@@ -13,8 +13,8 @@
 char auth[] = "ZFsjHAcgl5d0DLyyMee7SHWXIHVzWa1u";
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "AfiQ@Unifi";
-char pass[] = "Nasiruddin67";
+char ssid[] = ""; // Wi-Fi Name.
+char pass[] = ""; // Password.
 
 int led = 27; //Led 1 connection to Board
 int led1 = 26; //Led 2 connection to Board
